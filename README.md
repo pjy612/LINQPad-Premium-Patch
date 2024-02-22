@@ -3,6 +3,7 @@
 ### Tools List
 - All versions
   * LinqPad7  
+  * LinqPad8  
   
 + Specify version
   - SpreadJS
